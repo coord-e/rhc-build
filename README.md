@@ -17,7 +17,7 @@ Development environment for [Ruby Hack Challenge](https://github.com/ko1/rubyhac
 
 ## Example
 
-This follows an instruction on [(2) MRI source code structure](https://github.com/ko0/rubyhackchallenge/blob/master/EN/2_mri_structure.md).
+This follows an instruction on [(2) MRI source code structure](https://github.com/ko1/rubyhackchallenge/blob/master/EN/2_mri_structure.md).
 
 ```shell
 $ git clone https://github.com/coord-e/rhc-build.git
