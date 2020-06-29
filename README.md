@@ -1,6 +1,6 @@
-# `ruby-hack`
+# `rhc-build`
 
-Building environment for [Ruby Hack Challenge](https://github.com/ko1/rubyhackchallenge) using [koichisasada/rhc](http://hub.docker.com/r/koichisasada/rhc).
+Development environment for [Ruby Hack Challenge](https://github.com/ko1/rubyhackchallenge) using [koichisasada/rhc](http://hub.docker.com/r/koichisasada/rhc).
 
 ## Requirements
 
